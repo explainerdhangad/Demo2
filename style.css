@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+   
+}
+header{
+    background-color: rgb(161, 161, 161);
+}
+ul li{
+    list-style: none;
+    justify-content: center;
+
+}
+
+footer{
+    background-color: black;
+    position: fixed;
+    bottom: 0;
+    height: 100px;
+    color: aliceblue;
+    text-align: center;
+    width: 100%;
+    font-size: 35px;
+}
